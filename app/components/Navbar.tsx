@@ -57,13 +57,13 @@ export default function Navbar() {
                         {/* Desktop CTA */}
                         <div className="hidden md:flex items-center gap-3">
                             <a
-                                href="/login"
+                                href="https://app.bookleyapp.com/"
                                 className="text-sm font-medium text-[var(--color-text-secondary)] hover:text-[var(--color-text-primary)] transition-colors px-4 py-2"
                             >
                                 Entrar
                             </a>
                             <a
-                                href="/register"
+                                href="https://app.bookleyapp.com/"
                                 className="text-sm font-medium text-white bg-[var(--color-primary)] hover:bg-[var(--color-primary-dark)] transition-colors px-5 py-2.5 rounded-lg"
                             >
                                 Comece Grátis
@@ -116,13 +116,13 @@ export default function Navbar() {
                             ))}
                             <hr className="border-[var(--color-border)]" />
                             <a
-                                href="/login"
+                                href="https://app.bookleyapp.com/"
                                 className="text-lg font-medium text-[var(--color-text-secondary)]"
                             >
                                 Entrar
                             </a>
                             <a
-                                href="/register"
+                                href="https://app.bookleyapp.com/"
                                 className="text-center text-lg font-medium text-white bg-[var(--color-primary)] hover:bg-[var(--color-primary-dark)] transition-colors px-6 py-3 rounded-lg"
                             >
                                 Comece Grátis

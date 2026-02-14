@@ -188,7 +188,7 @@ export default function PricingSection() {
 
                             {/* CTA Button */}
                             <a
-                                href="/register"
+                                href="https://app.bookleyapp.com/"
                                 className={`block text-center font-medium py-3 px-6 rounded-xl transition-all duration-300 mb-8 ${plan.popular
                                         ? "bg-[var(--color-primary)] hover:bg-[var(--color-primary-dark)] text-white shadow-lg shadow-[var(--color-primary)]/25"
                                         : "bg-[var(--color-bg)] hover:bg-[var(--color-primary-light)] text-[var(--color-text-primary)] hover:text-[var(--color-primary)]"

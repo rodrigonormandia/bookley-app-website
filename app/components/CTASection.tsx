@@ -29,7 +29,7 @@ export default function CTASection() {
                         </p>
 
                         <a
-                            href="/register"
+                            href="https://app.bookleyapp.com/"
                             className="inline-flex items-center justify-center text-base font-semibold text-[var(--color-primary)] bg-white hover:bg-gray-50 transition-all px-8 py-4 rounded-xl shadow-lg hover:shadow-xl hover:-translate-y-0.5"
                         >
                             Comece Grátis Agora

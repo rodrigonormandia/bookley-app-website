@@ -41,7 +41,7 @@ export default function HeroSection() {
                         {/* CTAs */}
                         <div className="flex flex-col sm:flex-row gap-4 mb-8">
                             <a
-                                href="/register"
+                                href="https://app.bookleyapp.com/"
                                 className="inline-flex items-center justify-center text-base font-medium text-white bg-[var(--color-primary)] hover:bg-[var(--color-primary-dark)] transition-all px-8 py-4 rounded-xl shadow-lg shadow-[var(--color-primary)]/25 hover:shadow-xl hover:shadow-[var(--color-primary)]/30 hover:-translate-y-0.5"
                             >
                                 Comece Grátis
