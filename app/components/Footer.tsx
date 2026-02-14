@@ -17,7 +17,7 @@ const footerLinks = {
     Legal: [
         { label: "Privacidade", href: "https://app.bookleyapp.com/legal/privacy-policy" },
         { label: "Termos de Uso", href: "https://app.bookleyapp.com/legal/terms-of-service" },
-        { label: "Cookies", href: "#" },
+        { label: "Cookies", href: "/cookies" },
     ],
     Suporte: [
         { label: "Central de Ajuda", href: "#" },
